@@ -14,6 +14,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
+//test comment
 @Mod(TestingMod.MOD_ID)
 public class TestingMod
 {
